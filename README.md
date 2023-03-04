@@ -9,7 +9,7 @@
 <h4 align="left">I'm a Full-Stack Web Developer from Siberia 🧊</h4>
 
 <a href="#debabin-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=debabin&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="debabin" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=renth0p&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="renth0p" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **[ЦФТ](https://www.cft.ru/)**
