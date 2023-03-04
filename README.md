@@ -12,11 +12,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=renth0p&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="renth0p" align="right" />
 </a>
 
-- :office: &nbsp;Сейчас работаю над Pet-проектами для развития своих навыкров 
-- :popcorn: &nbsp;Working in Russia
-- :speech_balloon: &nbsp;
-- :writing_hand: &nbsp;Know how to use **[Typescript](https://www.typescriptlang.org/)**
-- :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/siberiacancode)**
+- :office: &nbsp;Now I am working on Pet-projects to develop my skills
+- :popcorn: &nbsp;Currently learn React & Typescript & JS
 
 <br>
 
