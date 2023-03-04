@@ -131,12 +131,6 @@
       </a>
       <br>Gatsby
     </td>
-   <td align="center" width="96">
-      <a href="#debabin-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
      <td align="center" width="96"> 
       <a href="#debabin-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
@@ -150,18 +144,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
       </a>
       <br>Html5
-    </td>
-     <td align="center" width="96"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="48" height="48" alt="Apollo" />
-      </a>
-      <br>Apollo
-    </td>
-    <td align="center" width="96"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="48" height="48" alt="Webpack" />
-      </a>
-      <br>Webpack
     </td>
     <td align="center" width="96"> 
       <a href="#debabin-stack" >
@@ -184,29 +166,10 @@
   </tr> 
 </table>
 
->  Mobile
- 
-<table width='100%'>
-  <tr>
-    <td align="center" width="96">
-      <a href="#debabin-stack">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React Native" />
-      </a>
-      <br>React Native
-    </td>
-  </tr> 
-</table>
-
 >  Backend
  
 <table width='100%'>
   <tr>
-    <td align="center" width="96"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="48" height="48" alt="Nestjs" />
-      </a>
-      <br>Nest JS
-    </td>
     <td align="center" width="96"> 
       <a href="#debabin-stack" >
         <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="48" height="48" alt="Node JS" />
@@ -215,33 +178,9 @@
     </td>
     <td align="center" width="96">
       <a href="#debabin-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-      <a href="#debabin-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="Mongo DB" />
       </a>
       <br>MongoDB
-    </td>
-     <td align="center" width="96"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-      <td align="center" width="96"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="48" height="48" alt="Prisma" />
-      </a>
-      <br>Prisma
-    </td>
-      <td align="center" width="96"> 
-      <a href="#debabin-stack" >
-        <img src="https://trpc.io/img/logo.svg" width="48" height="48" alt="tRPC" />
-      </a>
-      <br>tRPC
     </td>
   </tr> 
 </table>
