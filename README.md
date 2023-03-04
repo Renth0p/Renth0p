@@ -12,10 +12,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=renth0p&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="renth0p" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[ЦФТ](https://www.cft.ru/)**
-- :fire: &nbsp;I develop for all platforms using **Typescript**
-- :popcorn: &nbsp;My **[youtube channel](https://www.youtube.com/c/SIBERIACANCODE)**
-- :speech_balloon: &nbsp;Extensive development experience 
+- :office: &nbsp;Сейчас работаю над Pet-проектами для развития своих навыкров 
+- :popcorn: &nbsp;Working in Russia
+- :speech_balloon: &nbsp;
 - :writing_hand: &nbsp;Know how to use **[Typescript](https://www.typescriptlang.org/)**
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/siberiacancode)**
 
@@ -28,37 +27,37 @@
 <table width='100%'>
   <tr>
     <td align="center" width="96">
-      <a href="#debabin-stack">
+      <a href="#renth0p-stack">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#debabin-stack">
+      <a href="#renth0p-stack">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript"         />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#debabin-stack" >
+      <a href="#renth0p-stack" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
       </a>
       <br>Figma
     </td>
     <td align="center" width="96">
-      <a href="#debabin-stack" >
+      <a href="#renth0p-stack" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96"> 
-      <a href="#debabin-stack" >
+      <a href="#renth0p-stack" >
         <img src="https://brandeps.com/icon-download/Y/Yarn-icon-vector-03.svg" width="48" height="48" alt="yarn" />
       </a>
       <br>Yarn
     </td>
     <td align="center" width="96"> 
-      <a href="#debabin-stack" >
+      <a href="#renth0p-stack" >
         <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
       </a>
       <br>Npm
@@ -71,19 +70,19 @@
 <table width='100%'>
   <tr>
      <td align="center" width="96">
-      <a href="#debabin-stack">
+      <a href="#renth0p-stack">
         <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="48" height="48" alt="Eslint" />
       </a>
       <br>Eslint
     </td>
     <td align="center" width="96">
-      <a href="#debabin-stack">
+      <a href="#renth0p-stack">
         <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="48" height="48" alt="Prettier" />
       </a>
       <br>Prettier
     </td>
     <td align="center" width="96"> 
-      <a href="#debabin-stack" >
+      <a href="#renth0p-stack" >
         <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="48" height="48" alt="Storybook" />
       </a>
       <br>Storybook
@@ -96,43 +95,43 @@
 <table width='100%'>
   <tr>
     <td align="center" width="96">
-      <a href="#debabin-stack">
+      <a href="#renth0p-stack">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
       </a>
       <br>React JS
     </td>
           <td align="center" width="96"> 
-      <a href="#debabin-stack" >
+      <a href="#renth0p-stack" >
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
       </a>
       <br>Next JS
     </td>
       <td align="center" width="96"> 
-      <a href="#debabin-stack" >
+      <a href="#renth0p-stack" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
     </td>
     <td align="center" width="96"> 
-      <a href="#debabin-stack" >
+      <a href="#renth0p-stack" >
         <img src="https://brandeps.com/icon-download/M/Mobx-icon-vector-01.svg" width="48" height="48" alt="Mobx" />
       </a>
       <br>Mobx
     </td>
      <td align="center" width="96">
-      <a href="#debabin-stack">
+      <a href="#renth0p-stack">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
       </a>
       <br>MUI
     </td>
    <td align="center"  width="96">
-      <a href="#debabin-stack">
+      <a href="#renth0p-stack">
         <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
       </a>
       <br>Gatsby
     </td>
      <td align="center" width="96"> 
-      <a href="#debabin-stack" >
+      <a href="#renth0p-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
       </a>
       <br>Css3
@@ -140,25 +139,25 @@
   </tr> 
     <tr>
     <td align="center" width="96">
-      <a href="#debabin-stack">
+      <a href="#renth0p-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
       </a>
       <br>Html5
     </td>
     <td align="center" width="96"> 
-      <a href="#debabin-stack" >
+      <a href="#renth0p-stack" >
         <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
       </a>
       <br>Vite
     </td> 
     <td align="center" width="96">
-      <a href="#debabin-stack">
+      <a href="#renth0p-stack">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
     </td>
    <td align="center" width="96">
-      <a href="#debabin-stack">
+      <a href="#renth0p-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
       </a>
       <br>Tailwind
@@ -187,30 +186,12 @@
 
 >  Other
  
-<table width='100%'>
-  <tr>
-    <td align="center" width="96">
-      <a href="#debabin-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
-      </a>
-      <br>Electron
-    </td>
-  </tr> 
-</table>
-
-## :package: Packages
-- [lodash-omitdeep](https://www.npmjs.com/package/lodash-omitdeep)
-
 ## :comet: Contact
 <a href="#debabin-title">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=debabin&show_icons=true&locale=en&layout=compact&theme=react" alt="debabin" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=renth0p&show_icons=true&locale=en&layout=compact&theme=react" alt="renth0p" />
 </a>
 
-- :comet: &nbsp;**[Github](https://github.com/debabin)**
-- :airplane: &nbsp;**[Telegram](https://t.me/siberiacancode)**
-- :popcorn: &nbsp;**[Youtube](https://www.youtube.com/c/SIBERIACANCODE)**
-- :robot: &nbsp;**[Discord](https://discord.gg/VqubFtXM)**
-- :bird: &nbsp;**[Twitter](https://twitter.com/db_dzo)**
-- :camera: &nbsp;**[Instagram](https://www.instagram.com/db_babin/)**
+- :comet: &nbsp;**[Github](https://github.com/renth0p)**
+- :airplane: &nbsp;**[Telegram](https://t.me/renthop)**
 
 <br>
