@@ -180,8 +180,6 @@
     </td>
   </tr> 
 </table>
-
->  Other
  
 ## :comet: Contact
 <a href="#debabin-title">
