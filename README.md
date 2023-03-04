@@ -1,7 +1,4 @@
-<a href="https://github.com/renthop">
-  <img src="https://i.pinimg.com/564x/92/77/e1/9277e1f3f0c1f1b62dadc365b8ae28f5.jpg" alt="
-      siberiacancode" wight="830px" height="320px" align="center"/>
-</a>
+
 
 
 <h1 align="left">:wave: Hello there! I'm Dmitry Babin</h1>
