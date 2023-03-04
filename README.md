@@ -11,7 +11,7 @@
 
 - :office: &nbsp;Now I am working on Pet-projects to develop my skills
 - :popcorn: &nbsp;Learning React & TS & JS
-- - :popcorn: &nbsp;Try to be a Junior Dev
+- 🙇‍♂️ &nbsp;Try to be a Junior Dev
 
 <br>
 
