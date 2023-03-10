@@ -107,23 +107,11 @@
       </a>
       <br>Redux
     </td>
-    <td align="center" width="96"> 
-      <a href="#renth0p-stack" >
-        <img src="https://brandeps.com/icon-download/M/Mobx-icon-vector-01.svg" width="48" height="48" alt="Mobx" />
-      </a>
-      <br>Mobx
-    </td>
      <td align="center" width="96">
       <a href="#renth0p-stack">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
       </a>
       <br>MUI
-    </td>
-   <td align="center"  width="96">
-      <a href="#renth0p-stack">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
-      </a>
-      <br>Gatsby
     </td>
      <td align="center" width="96"> 
       <a href="#renth0p-stack" >
@@ -178,8 +166,6 @@
     </td>
   </tr> 
 </table>
-
->  Other
  
 ## :comet: Contact
 <a href="#debabin-title">
