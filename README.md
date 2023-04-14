@@ -5,10 +5,6 @@
 
 <h4 align="left">I'm a Junior Frontend Web Developer from Russia 🛰️</h4>
 
-<a href="#debabin-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=renth0p&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="renth0p" align="right" />
-</a>
-
 - :office: &nbsp;Now I am working on Pet-projects to develop my skills
 - :popcorn: &nbsp;Learning React & TS & JS
 - 🙇‍♂️ &nbsp;Try to be a Junior Dev
