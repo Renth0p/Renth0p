@@ -111,12 +111,6 @@
     </td>
   </tr> 
     <tr>
-    <td align="center" width="96">
-      <a href="#renth0p-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
-      </a>
-      <br>Html5
-    </td>
     <td align="center" width="96"> 
       <a href="#renth0p-stack" >
         <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
