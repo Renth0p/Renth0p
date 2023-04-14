@@ -103,12 +103,6 @@
       </a>
       <br>Redux
     </td>
-     <td align="center" width="96">
-      <a href="#renth0p-stack">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
-      </a>
-      <br>MUI
-    </td>
      <td align="center" width="96"> 
       <a href="#renth0p-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
@@ -134,12 +128,6 @@
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
-    </td>
-   <td align="center" width="96">
-      <a href="#renth0p-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
-      </a>
-      <br>Tailwind
     </td>
   </tr> 
 </table>
