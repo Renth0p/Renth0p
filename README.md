@@ -146,9 +146,6 @@
 </table>
  
 ## :comet: Contact
-<a href="#debabin-title">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=renth0p&show_icons=true&locale=en&layout=compact&theme=react" alt="renth0p" />
-</a>
 
 - :comet: &nbsp;**[Github](https://github.com/renth0p)**
 - :airplane: &nbsp;**[Telegram](https://t.me/renthop)**
