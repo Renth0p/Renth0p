@@ -18,37 +18,37 @@
 <table width='100%'>
   <tr>
     <td align="center" width="96">
-      <a href="#renth0p-stack">
+      <a href="https://learn.javascript.ru/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#renth0p-stack">
+      <a href="https://www.typescriptlang.org/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript"         />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#renth0p-stack" >
+      <a href="https://www.figma.com/" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
       </a>
       <br>Figma
     </td>
     <td align="center" width="96">
-      <a href="#renth0p-stack" >
+      <a href="https://git-scm.com/" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96"> 
-      <a href="#renth0p-stack" >
+      <a href="https://yarnpkg.com/" >
         <img src="https://brandeps.com/icon-download/Y/Yarn-icon-vector-03.svg" width="48" height="48" alt="yarn" />
       </a>
       <br>Yarn
     </td>
     <td align="center" width="96"> 
-      <a href="#renth0p-stack" >
+      <a href="https://www.npmjs.com/" >
         <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
       </a>
       <br>Npm
@@ -61,22 +61,16 @@
 <table width='100%'>
   <tr>
      <td align="center" width="96">
-      <a href="#renth0p-stack">
+      <a href="https://eslint.org/">
         <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="48" height="48" alt="Eslint" />
       </a>
       <br>Eslint
     </td>
     <td align="center" width="96">
-      <a href="#renth0p-stack">
+      <a href="https://prettier.io/">
         <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="48" height="48" alt="Prettier" />
       </a>
       <br>Prettier
-    </td>
-    <td align="center" width="96"> 
-      <a href="#renth0p-stack" >
-        <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="48" height="48" alt="Storybook" />
-      </a>
-      <br>Storybook
     </td>
   </tr> 
 </table>
@@ -86,39 +80,33 @@
 <table width='100%'>
   <tr>
     <td align="center" width="96">
-      <a href="#renth0p-stack">
+      <a href="https://react.dev/">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
       </a>
       <br>React JS
     </td>
           <td align="center" width="96"> 
-      <a href="#renth0p-stack" >
+      <a href="https://nextjs.org/" >
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
       </a>
       <br>Next JS
     </td>
       <td align="center" width="96"> 
-      <a href="#renth0p-stack" >
+      <a href="https://redux.js.org/" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
     </td>
-     <td align="center" width="96"> 
-      <a href="#renth0p-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
-      </a>
-      <br>Css3
-    </td>
   </tr> 
     <tr>
     <td align="center" width="96"> 
-      <a href="#renth0p-stack" >
+      <a href="https://vitejs.dev/" >
         <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
       </a>
       <br>Vite
     </td> 
     <td align="center" width="96">
-      <a href="#renth0p-stack">
+      <a href="https://sass-lang.com/">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
@@ -131,13 +119,13 @@
 <table width='100%'>
   <tr>
     <td align="center" width="96"> 
-      <a href="#debabin-stack" >
+      <a href="https://nodejs.org/en" >
         <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="48" height="48" alt="Node JS" />
       </a>
       <br>Node JS
     </td>
     <td align="center" width="96">
-      <a href="#debabin-stack" >
+      <a href="https://www.mongodb.com/" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="Mongo DB" />
       </a>
       <br>MongoDB
