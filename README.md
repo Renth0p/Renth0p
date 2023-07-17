@@ -85,9 +85,7 @@
       </a>
       <br>Redux
     </td>
-  </tr> 
-    <tr>
-    <td align="center" width="96">
+       <td align="center" width="96">
       <a href="https://sass-lang.com/">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
       </a>
