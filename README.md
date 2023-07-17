@@ -87,17 +87,11 @@
     </td>
   </tr> 
     <tr>
-    <td align="center" width="96"> 
-      <a href="https://vitejs.dev/" >
-        <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
-      </a>
-      <br>Vite
-    </td> 
     <td align="center" width="96">
       <a href="https://sass-lang.com/">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
       </a>
-      <br>Sass
+      <br>Sass / SCSS
     </td>
   </tr> 
 </table>
