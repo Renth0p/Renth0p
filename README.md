@@ -29,29 +29,17 @@
       </a>
       <br>TypeScript
     </td>
-    <td align="center" width="96">
-      <a href="https://www.figma.com/" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
+     <td align="center" width="96">
+      <a href="https://react.dev/">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
       </a>
-      <br>Figma
+      <br>React JS
     </td>
-    <td align="center" width="96">
-      <a href="https://git-scm.com/" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+          <td align="center" width="96"> 
+      <a href="https://nextjs.org/" >
+        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
       </a>
-      <br>Git
-    </td>
-    <td align="center" width="96"> 
-      <a href="https://yarnpkg.com/" >
-        <img src="https://brandeps.com/icon-download/Y/Yarn-icon-vector-03.svg" width="48" height="48" alt="yarn" />
-      </a>
-      <br>Yarn
-    </td>
-    <td align="center" width="96"> 
-      <a href="https://www.npmjs.com/" >
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
-      </a>
-      <br>Npm
+      <br>Next JS
     </td>
   </tr> 
 </table>
@@ -131,6 +119,29 @@
       <br>MongoDB
     </td>
   </tr> 
+</table>
+
+> Other
+
+<table  width='100%'>
+     <td align="center" width="96">
+      <a href="https://git-scm.com/" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96"> 
+      <a href="https://yarnpkg.com/" >
+        <img src="https://brandeps.com/icon-download/Y/Yarn-icon-vector-03.svg" width="48" height="48" alt="yarn" />
+      </a>
+      <br>Yarn
+    </td>
+    <td align="center" width="96"> 
+      <a href="https://www.npmjs.com/" >
+        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
+      </a>
+      <br>Npm
+    </td>
 </table>
  
 ## :comet: Contact
